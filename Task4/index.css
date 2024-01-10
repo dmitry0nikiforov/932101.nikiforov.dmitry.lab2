@@ -1,0 +1,11 @@
+.content {
+    background-color: blue;
+    color: white;
+    width: 800px;
+    padding:0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
